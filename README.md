@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm [Your Name]  
+  Hi there 👋, I'm Ali Mohammadi  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
@@ -11,18 +11,18 @@
 
 🌱 **About Me**
 
-- 🔭 I’m currently working on **[Your Project or Goal]**
-- 🌱 I’m currently learning **[Tech or Concept]**
-- 💬 Ask me about **[Tech you're good at]**
-- 📫 Reach me at: **[you@example.com]**
-- ⚡ Fun fact: **[Something quirky or unique]**
+- 🔭 I’m currently working on **advanced python and django**
+- 🌱 I’m currently learning **relational databases like postgreSQL**
+- 💬 Ask me about **Python**
+- 📫 Reach me at: **rodrigez.v1384@gmail.com**
+- ⚡ Fun fact: **you can't beat me in learning sth!**
 
 ---
 
 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,docker,git,github,vscode" />
 </p>
 
 ---
@@ -31,8 +31,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=10" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&border_radius=10" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-mohammadi05&show_icons=true&theme=tokyonight&border_radius=10" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-mohammadi05&theme=tokyonight&border_radius=10" width="49%"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 🔥 **Top Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammadi05&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
