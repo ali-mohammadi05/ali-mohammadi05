@@ -55,7 +55,13 @@
 
 ---
 
-📫 **Connect with me**
+📫 **Connect with Me**
 
 <p align="center">
-  <a href="mailto:
+  <a href="mailto:rodrigez.v1384@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://linkedin.com/in/ali-mohammadi-0a1669230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
