@@ -48,9 +48,9 @@
 
 🎯 **My Goals for 2025**
 
-- ✅ Contribute more to open source
-- ✅ Learn Rust and Go
-- ✅ Launch a personal SaaS project
+- ✅ start my first official project
+- ✅ working with a great team
+- ✅ create a complete web application
 - ✅ Speak at a tech meetup/conference
 
 ---
