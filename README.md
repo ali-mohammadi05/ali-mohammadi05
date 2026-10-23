@@ -46,7 +46,7 @@
 
 ---
 
-🎯 **My Goals for 2025**
+🎯 **My Goals for 2026**
 
 - ✅ start my first official project
 - ✅ working with a great team
